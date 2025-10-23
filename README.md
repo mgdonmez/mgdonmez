@@ -6,5 +6,4 @@ Currently, I’m expanding into Python and data analytics to merge interactive t
 
 - 🔭 I’m working on: Unity XR projects and Python data analysis
 - 🌱 Learning: pandas, NumPy, and data visualization
-- 📫 Reach me at: mgoncadonmez@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/mgdonmez](https://www.linkedin.com/in/mgdonmez)
